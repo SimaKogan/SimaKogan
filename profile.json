@@ -1,0 +1,27 @@
+{
+  "name": "Sima Kogan",
+  "username": "SimaKogan",
+  "role": "AI Engineer · Full Stack Developer",
+  "taglines": [
+    "Hi, I'm Sima Kogan 👋",
+    "AI Engineer building GenAI systems",
+    "RAG · Agents · Vertex AI (Gemini)",
+    "Full Stack: Python, Java, React"
+  ],
+  "about": [
+    "🤖 AI Software Engineer: production Generative AI, LLM backends, intelligent agents and RAG",
+    "🧠 Embedding pipelines and vector databases on Google Cloud (Vertex AI / Gemini)",
+    "🧩 Full Stack background: Java Spring Boot microservices, Kafka, React / Next.js",
+    "🧪 Ex-QA: I know how to test non-deterministic AI behavior",
+    "🌍 Languages: Hebrew, English, Russian · 📍 Petah Tikva, Israel"
+  ],
+  "skills": ["python", "fastapi", "java", "spring", "ts", "js", "react", "nextjs", "redux", "nodejs", "tailwind", "html", "css", "postgres", "mysql", "mongodb", "redis", "kafka", "docker", "kubernetes", "gcp", "aws", "git", "github"],
+  "socials": {
+    "instagram": "serafymakogan",
+    "linkedin": "",
+    "telegram": "",
+    "email": "",
+    "website": "",
+    "twitter": ""
+  }
+}

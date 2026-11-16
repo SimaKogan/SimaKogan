@@ -1,0 +1,24 @@
+{
+  "name": "Your Name",
+  "username": "your-github-username",
+  "role": "Developer & Creator",
+  "taglines": [
+    "Hi there, I'm Your Name 👋",
+    "I build things for the web",
+    "Always learning something new"
+  ],
+  "about": [
+    "🔭 Currently working on: my pet project",
+    "🌱 Learning: TypeScript, Rust",
+    "💬 Ask me about: Python, web, automation",
+    "⚡ Fun fact: I debug by explaining code to a rubber duck"
+  ],
+  "skills": ["python", "js", "ts", "react", "nodejs", "docker", "git", "linux"],
+  "socials": {
+    "linkedin": "",
+    "telegram": "",
+    "email": "",
+    "website": "",
+    "twitter": ""
+  }
+}
