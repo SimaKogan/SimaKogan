@@ -24,7 +24,7 @@
 - 🧠 Embedding pipelines and vector databases on Google Cloud (Vertex AI / Gemini)
 - 🧩 Full Stack background: Java Spring Boot microservices, Kafka, React / Next.js
 - 🧪 Ex-QA: I know how to test non-deterministic AI behavior
-- 🌍 Languages: Hebrew, English, Russian · 📍 Petah Tikva, Israel
+- 🌍 Languages: Hebrew, English, Russian · 📍 Jerusalem, Israel
 
 ### 🛠 Tech stack
 
