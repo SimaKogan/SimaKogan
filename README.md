@@ -54,3 +54,12 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
+
+## Featured projects
+
+### 🦠 [EpiSim](https://github.com/SimaKogan/epi-sim)
+Real-time agent-based SEIR epidemic simulator. **Java 17 · Spring Boot · React · Canvas · SSE**
+A Spring Boot engine simulates thousands of individual people, virus mutations, vaccination, lockdowns, masks and testing, and streams every frame to a React canvas dashboard with a live map and charts.
+
+### 🧪 [OutbreakLab](https://github.com/SimaKogan/outbreak-lab) · [Live demo](https://simakogan.github.io/outbreak-lab/)
+A zero-dependency outbreak simulator that runs in the browser: change one rule and watch the whole outbreak change. **JavaScript · Canvas · Node tests**
