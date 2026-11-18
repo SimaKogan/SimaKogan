@@ -11,6 +11,8 @@
 
 <a href="https://github.com/SimaKogan"><img src="https://img.shields.io/badge/GitHub-SimaKogan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://instagram.com/serafymakogan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:serafima.kogan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://simakogan.github.io/portfolio/"><img src="https://img.shields.io/badge/Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=SimaKogan&label=Profile%20views&color=7c3aed&style=flat-square" alt="views" />
 

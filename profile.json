@@ -13,15 +13,15 @@
     "🧠 Embedding pipelines and vector databases on Google Cloud (Vertex AI / Gemini)",
     "🧩 Full Stack background: Java Spring Boot microservices, Kafka, React / Next.js",
     "🧪 Ex-QA: I know how to test non-deterministic AI behavior",
-    "🌍 Languages: Hebrew, English, Russian · 📍 Petah Tikva, Israel"
+    "🌍 Languages: Hebrew, English, Russian · 📍 Jerusalem, Israel"
   ],
   "skills": ["python", "fastapi", "java", "spring", "ts", "js", "react", "nextjs", "redux", "nodejs", "tailwind", "html", "css", "postgres", "mysql", "mongodb", "redis", "kafka", "docker", "kubernetes", "gcp", "aws", "git", "github"],
   "socials": {
     "instagram": "serafymakogan",
     "linkedin": "",
     "telegram": "",
-    "email": "",
-    "website": "",
+    "email": "serafima.kogan@gmail.com",
+    "website": "https://simakogan.github.io/portfolio/",
     "twitter": ""
   }
 }
