@@ -70,6 +70,10 @@ A Spring Boot engine simulates thousands of individual people, virus mutations, 
 ### 🧪 [OutbreakLab](https://github.com/SimaKogan/outbreak-lab) · [Live demo](https://simakogan.github.io/outbreak-lab/)
 A zero-dependency outbreak simulator that runs in the browser: change one rule and watch the whole outbreak change. **JavaScript · Canvas · Node tests**
 
+### 🧠 [Behavior Lab](https://github.com/SimaKogan/behavior-lab) · [Live demo](https://simakogan.github.io/behavior-lab/)
+Privacy-first behavior analytics that runs entirely in the browser. **TypeScript · Vite · Canvas**
+Measures how you move, click and type and shows it as a live mouse heatmap, a typing-rhythm histogram and a mood radar. A small ridge-regression model, written from scratch, learns from your own saved sessions and is validated against a "guess the average" baseline, so it is honest about whether it learned anything. No backend, no key characters recorded, UI in Hebrew, English and Russian.
+
 ### 🌐 [Portfolio](https://github.com/SimaKogan/portfolio) · [Live site](https://simakogan.github.io/portfolio/)
 Personal site in English, Russian and Hebrew with an interactive interpolation lab. **JavaScript · CSS · Node tests**
 
