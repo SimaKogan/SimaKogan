@@ -46,4 +46,20 @@
 </picture>
 </div>
 
+## Featured projects
+
+### 🥗 [Vitalis](https://github.com/SimaKogan/vitalis) · [Live demo](https://simakogan.github.io/vitalis/)
+Healthy eating and fitness app in English, Russian and Hebrew. **React 19 · TypeScript · Vite · Vitest · pdf.js**
+Whole-food recipes with a strict gluten-free and soy-free collection, a calorie and macro calculator, a weekly menu with a shopping list, a blood test analyzer that reads PDFs in the browser, and workouts with an interval timer.
+
+### 🦠 [EpiSim](https://github.com/SimaKogan/epi-sim)
+Real-time agent-based SEIR epidemic simulator. **Java 17 · Spring Boot · React · Canvas · SSE**
+A Spring Boot engine simulates thousands of individual people, virus mutations, vaccination, lockdowns, masks and testing, and streams every frame to a React canvas dashboard with a live map and charts.
+
+### 🧪 [OutbreakLab](https://github.com/SimaKogan/outbreak-lab) · [Live demo](https://simakogan.github.io/outbreak-lab/)
+A zero-dependency outbreak simulator that runs in the browser: change one rule and watch the whole outbreak change. **JavaScript · Canvas · Node tests**
+
+### 🌐 [Portfolio](https://github.com/SimaKogan/portfolio) · [Live site](https://simakogan.github.io/portfolio/)
+Personal site in English, Russian and Hebrew with an interactive interpolation lab. **JavaScript · CSS · Node tests**
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
