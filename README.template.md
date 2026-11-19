@@ -48,6 +48,10 @@
 
 ## Featured projects
 
+### 🛍️ [Aurora Shop](https://github.com/SimaKogan/aurora-shop) · [Live demo](https://simakogan.github.io/aurora-shop/)
+Full-stack online shop with JWT security and an admin panel. **Java · Spring Boot 3 · React · Vite · H2 / PostgreSQL · Docker**
+A Spring Boot REST backend with JWT authentication, role-based access (user and admin), products and orders, covered by security and JWT tests, plus a React storefront with dark and light themes. The live demo runs fully offline in the browser, and CI builds and tests every push.
+
 ### 🥗 [Vitalis](https://github.com/SimaKogan/vitalis) · [Live demo](https://simakogan.github.io/vitalis/)
 Healthy eating and fitness app in English, Russian and Hebrew. **React 19 · TypeScript · Vite · Vitest · pdf.js**
 Whole-food recipes with a strict gluten-free and soy-free collection, a calorie and macro calculator, a weekly menu with a shopping list, a blood test analyzer that reads PDFs in the browser, and workouts with an interval timer.
