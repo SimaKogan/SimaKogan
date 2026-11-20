@@ -49,25 +49,50 @@
 ## Featured projects
 
 ### 🛍️ [Aurora Shop](https://github.com/SimaKogan/aurora-shop) · [Live demo](https://simakogan.github.io/aurora-shop/)
+
+<a href="https://github.com/SimaKogan/aurora-shop"><img src="assets/projects/aurora-shop.png" alt="Aurora Shop" width="600"></a>
+
 Full-stack online shop with JWT security and an admin panel. **Java · Spring Boot 3 · React · Vite · H2 / PostgreSQL · Docker**
 A Spring Boot REST backend with JWT authentication, role-based access (user and admin), products and orders, covered by security and JWT tests, plus a React storefront with dark and light themes. The live demo runs fully offline in the browser, and CI builds and tests every push.
 
 ### 🥗 [Vitalis](https://github.com/SimaKogan/vitalis) · [Live demo](https://simakogan.github.io/vitalis/)
+
+<a href="https://github.com/SimaKogan/vitalis"><img src="assets/projects/vitalis.png" alt="Vitalis" width="600"></a>
+
 Healthy eating and fitness app in English, Russian and Hebrew. **React 19 · TypeScript · Vite · Vitest · pdf.js**
 Whole-food recipes with a strict gluten-free and soy-free collection, a calorie and macro calculator, a weekly menu with a shopping list, a blood test analyzer that reads PDFs in the browser, and workouts with an interval timer.
 
 ### 🦠 [EpiSim](https://github.com/SimaKogan/epi-sim)
+
+<a href="https://github.com/SimaKogan/epi-sim"><img src="assets/projects/epi-sim.png" alt="EpiSim" width="600"></a>
+
 Real-time agent-based SEIR epidemic simulator. **Java 17 · Spring Boot · React · Canvas · SSE**
 A Spring Boot engine simulates thousands of individual people, virus mutations, vaccination, lockdowns, masks and testing, and streams every frame to a React canvas dashboard with a live map and charts.
 
 ### 🧪 [OutbreakLab](https://github.com/SimaKogan/outbreak-lab) · [Live demo](https://simakogan.github.io/outbreak-lab/)
+
+<a href="https://github.com/SimaKogan/outbreak-lab"><img src="assets/projects/outbreak-lab.png" alt="OutbreakLab" width="600"></a>
+
 A zero-dependency outbreak simulator that runs in the browser: change one rule and watch the whole outbreak change. **JavaScript · Canvas · Node tests**
 
 ### 🧠 [Behavior Lab](https://github.com/SimaKogan/behavior-lab) · [Live demo](https://simakogan.github.io/behavior-lab/)
+
+<a href="https://github.com/SimaKogan/behavior-lab"><img src="assets/projects/behavior-lab.png" alt="Behavior Lab" width="600"></a>
+
 Privacy-first behavior analytics that runs entirely in the browser. **TypeScript · Vite · Canvas**
 Measures how you move, click and type and shows it as a live mouse heatmap, a typing-rhythm histogram and a mood radar. A small ridge-regression model, written from scratch, learns from your own saved sessions and is validated against a "guess the average" baseline, so it is honest about whether it learned anything. No backend, no key characters recorded, UI in Hebrew, English and Russian.
 
+### 🎲 [Catan Victory Tracker](https://github.com/SimaKogan/catan-tracker) · [Live demo](https://simakogan.github.io/catan-tracker/)
+
+<a href="https://github.com/SimaKogan/catan-tracker"><img src="assets/projects/catan-tracker.png" alt="Catan Victory Tracker" width="600"></a>
+
+Animated, offline win counter for board-game nights. **React 19 · Vite · Tailwind CSS · Framer Motion**
+Live leaderboard with leader highlight, editable player names, an animated SVG hex-map background and smooth micro-interactions. Runs fully in the browser with `localStorage`, no backend.
+
 ### 🌐 [Portfolio](https://github.com/SimaKogan/portfolio) · [Live site](https://simakogan.github.io/portfolio/)
+
+<a href="https://github.com/SimaKogan/portfolio"><img src="assets/projects/portfolio.png" alt="Portfolio" width="600"></a>
+
 Personal site in English, Russian and Hebrew with an interactive interpolation lab. **JavaScript · CSS · Node tests**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
