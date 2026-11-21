@@ -96,6 +96,13 @@ Measures how you move, click and type and shows it as a live mouse heatmap, a ty
 Animated, offline win counter for board-game nights. **React 19 · Vite · Tailwind CSS · Framer Motion**
 Live leaderboard with leader highlight, editable player names, an animated SVG hex-map background and smooth micro-interactions. Runs fully in the browser with `localStorage`, no backend.
 
+### 🖼️ [Kadr](https://github.com/SimaKogan/kadr) · [Live demo](https://simakogan.github.io/kadr/)
+
+<a href="https://github.com/SimaKogan/kadr"><img src="assets/projects/kadr.png" alt="Kadr" width="600"></a>
+
+A personal gallery for pictures and short films. **React 19 · TypeScript · Vite · Vitest**
+Justified rows, a full-screen viewer with swipe and keyboard navigation, tag and search filters, a shareable link for every work, dark and light themes, and a trilingual interface (English, Russian, Hebrew with full right-to-left layout). No backend: everything lives in plain files and deploys to GitHub Pages, and an import script resizes photos and reads EXIF dates.
+
 ### 🌐 [Portfolio](https://github.com/SimaKogan/portfolio) · [Live site](https://simakogan.github.io/portfolio/)
 
 <a href="https://github.com/SimaKogan/portfolio"><img src="assets/projects/portfolio.png" alt="Portfolio" width="600"></a>
