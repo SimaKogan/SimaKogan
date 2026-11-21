@@ -103,6 +103,12 @@ Live leaderboard with leader highlight, editable player names, an animated SVG h
 A personal gallery for pictures and short films. **React 19 · TypeScript · Vite · Vitest**
 Justified rows, a full-screen viewer with swipe and keyboard navigation, tag and search filters, a shareable link for every work, dark and light themes, and a trilingual interface (English, Russian, Hebrew with full right-to-left layout). No backend: everything lives in plain files and deploys to GitHub Pages, and an import script resizes photos and reads EXIF dates.
 
+### 📅 [GroupBoard](https://github.com/SimaKogan/groupboard)
+Study-group and weekly-schedule manager. **Java 17 · Spring Boot 3 · Spring Security · React · TypeScript · Vite · H2**
+A Spring Boot REST API with JWT authentication, admin and teacher roles, paginated group search and lesson clash detection, plus a React interface with a colour-coded weekly timetable and dark and light themes. CI builds and tests every push.
+
+<a href="https://github.com/SimaKogan/groupboard"><img src="assets/projects/groupboard.png" alt="GroupBoard" width="600"></a>
+
 ### 🌐 [Portfolio](https://github.com/SimaKogan/portfolio) · [Live site](https://simakogan.github.io/portfolio/)
 
 <a href="https://github.com/SimaKogan/portfolio"><img src="assets/projects/portfolio.png" alt="Portfolio" width="600"></a>
