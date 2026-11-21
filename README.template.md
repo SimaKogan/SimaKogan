@@ -48,6 +48,13 @@
 
 ## Featured projects
 
+### 🤖 [RagBot](https://github.com/SimaKogan/ragbot)
+
+<a href="https://github.com/SimaKogan/ragbot"><img src="assets/projects/ragbot.png" alt="RagBot" width="600"></a>
+
+RAG chatbot for Telegram and Slack that answers from your own documents and shows its sources. **Java 17 · Spring Boot 3 · Spring AI · Vertex AI Gemini · pgvector · React · TypeScript · Docker**
+Documents (PDF, DOCX, Markdown) are chunked, embedded with Vertex AI and searched in pgvector, and Gemini answers only from what was found, or says it does not know. Every answer carries 👍/👎 buttons in Telegram and Slack, and the ratings are aggregated per source document in a dark-theme React dashboard, so you can see which files make answers worse. Signed Slack webhooks, a token-protected admin API and a Docker Compose setup.
+
 ### 🛍️ [Aurora Shop](https://github.com/SimaKogan/aurora-shop) · [Live demo](https://simakogan.github.io/aurora-shop/)
 
 <a href="https://github.com/SimaKogan/aurora-shop"><img src="assets/projects/aurora-shop.png" alt="Aurora Shop" width="600"></a>
