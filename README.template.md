@@ -96,7 +96,7 @@ Live leaderboard with leader highlight, editable player names, an animated SVG h
 A personal gallery for pictures and short films. **React 19 · TypeScript · Vite · Vitest**
 Justified rows, a full-screen viewer with swipe and keyboard navigation, tag and search filters, a shareable link for every work, dark and light themes, and a trilingual interface (English, Russian, Hebrew with full right-to-left layout). No backend: everything lives in plain files and deploys to GitHub Pages, and an import script resizes photos and reads EXIF dates.
 
-### 🛒 [Order Desk](https://github.com/SimaKogan/order-desk)
+### 🛒 [Order Desk](https://github.com/SimaKogan/order-desk) · [Live demo](https://simakogan.github.io/order-desk/)
 
 <a href="https://github.com/SimaKogan/order-desk"><img src="assets/projects/order-desk.png" alt="Order Desk" width="600"></a>
 
