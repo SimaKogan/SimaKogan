@@ -96,6 +96,13 @@ Live leaderboard with leader highlight, editable player names, an animated SVG h
 A personal gallery for pictures and short films. **React 19 · TypeScript · Vite · Vitest**
 Justified rows, a full-screen viewer with swipe and keyboard navigation, tag and search filters, a shareable link for every work, dark and light themes, and a trilingual interface (English, Russian, Hebrew with full right-to-left layout). No backend: everything lives in plain files and deploys to GitHub Pages, and an import script resizes photos and reads EXIF dates.
 
+### 🛒 [Order Desk](https://github.com/SimaKogan/order-desk)
+
+<a href="https://github.com/SimaKogan/order-desk"><img src="assets/projects/order-desk.png" alt="Order Desk" width="600"></a>
+
+Salesforce app that turns opportunity products into a cart and an emailed receipt. **Apex · Lightning Web Components · Salesforce DX · Jest**
+A service layer and a bulk-safe trigger guard the purchase life cycle, with Apex tests including a 200-record trigger run and bulk adds. A Lightning Web Components UI handles the cart, and user-mode queries respect permissions and field-level security. Ships with permission sets, a Lightning app and demo data.
+
 ### 🌐 [Portfolio](https://github.com/SimaKogan/portfolio) · [Live site](https://simakogan.github.io/portfolio/)
 
 <a href="https://github.com/SimaKogan/portfolio"><img src="assets/projects/portfolio.png" alt="Portfolio" width="600"></a>

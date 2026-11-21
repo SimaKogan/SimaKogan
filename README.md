@@ -23,6 +23,7 @@
 ### ✨ About me
 
 - 🤖 AI Software Engineer: production Generative AI, LLM backends, intelligent agents and RAG
+- 🐍 Python is my main language for AI work: FastAPI backends, RAG and embedding pipelines
 - 🧠 Embedding pipelines and vector databases on Google Cloud (Vertex AI / Gemini)
 - 🧩 Full Stack background: Java Spring Boot microservices, Kafka, React / Next.js
 - 🧪 Ex-QA: I know how to test non-deterministic AI behavior
@@ -31,7 +32,7 @@
 ### 🛠 Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,ts,js,react,nextjs,redux,nodejs,tailwind,html,css,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,gcp,aws,git,github&perline=8" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,java,spring,ts,js,react,nextjs,redux,nodejs,tailwind,html,css,postgres,mysql,mongodb,redis,kafka,docker,kubernetes,gcp,aws,git,github,cpp&perline=8" alt="skills" />
 </div>
 
 ### 📊 GitHub stats
@@ -103,11 +104,12 @@ Live leaderboard with leader highlight, editable player names, an animated SVG h
 A personal gallery for pictures and short films. **React 19 · TypeScript · Vite · Vitest**
 Justified rows, a full-screen viewer with swipe and keyboard navigation, tag and search filters, a shareable link for every work, dark and light themes, and a trilingual interface (English, Russian, Hebrew with full right-to-left layout). No backend: everything lives in plain files and deploys to GitHub Pages, and an import script resizes photos and reads EXIF dates.
 
-### 📅 [GroupBoard](https://github.com/SimaKogan/groupboard)
-Study-group and weekly-schedule manager. **Java 17 · Spring Boot 3 · Spring Security · React · TypeScript · Vite · H2**
-A Spring Boot REST API with JWT authentication, admin and teacher roles, paginated group search and lesson clash detection, plus a React interface with a colour-coded weekly timetable and dark and light themes. CI builds and tests every push.
+### 🛒 [Order Desk](https://github.com/SimaKogan/order-desk)
 
-<a href="https://github.com/SimaKogan/groupboard"><img src="assets/projects/groupboard.png" alt="GroupBoard" width="600"></a>
+<a href="https://github.com/SimaKogan/order-desk"><img src="assets/projects/order-desk.png" alt="Order Desk" width="600"></a>
+
+Salesforce app that turns opportunity products into a cart and an emailed receipt. **Apex · Lightning Web Components · Salesforce DX · Jest**
+A service layer and a bulk-safe trigger guard the purchase life cycle, with Apex tests including a 200-record trigger run and bulk adds. A Lightning Web Components UI handles the cart, and user-mode queries respect permissions and field-level security. Ships with permission sets, a Lightning app and demo data.
 
 ### 🌐 [Portfolio](https://github.com/SimaKogan/portfolio) · [Live site](https://simakogan.github.io/portfolio/)
 
