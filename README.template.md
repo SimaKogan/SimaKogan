@@ -55,6 +55,13 @@
 RAG chatbot for Telegram and Slack that answers from your own documents and shows its sources. **Java 17 · Spring Boot 3 · Spring AI · Vertex AI Gemini · pgvector · React · TypeScript · Docker**
 Documents (PDF, DOCX, Markdown) are chunked, embedded with Vertex AI and searched in pgvector, and Gemini answers only from what was found, or says it does not know. Every answer carries 👍/👎 buttons in Telegram and Slack, and the ratings are aggregated per source document in a React dashboard (dark and light themes), so you can see which files make answers worse. Signed Slack webhooks, a token-protected admin API and a Docker Compose setup.
 
+### 🖋️ [Inkwell](https://github.com/SimaKogan/inkwell)
+
+<a href="https://github.com/SimaKogan/inkwell"><img src="assets/projects/inkwell.png" alt="Inkwell" width="600"></a>
+
+Catalog with threaded discussions, hybrid semantic search and a handwriting studio that reads and writes in your own hand. **Java 17 · Spring Boot 3 · JWT · PostgreSQL + pgvector · React · TypeScript · FastAPI · OpenCV · Docker**
+Search merges full-text, trigram and vector retrieval with rank fusion, repairs text typed on the wrong keyboard layout (`ghbdtn` → `привет`, `akuo` → `שלום`) and can answer from the hits with numbered citations. The handwriting studio reads photos of handwriting and writes new text in your own letters: you print a sheet, photograph it, and the service corrects the perspective and cuts out your characters (Cyrillic, Latin and Hebrew, laid out right-to-left). Interface in English, Russian and Hebrew with full right-to-left layout, light and dark themes, and a CI pipeline that builds and tests every push.
+
 ### 🛍️ [Aurora Shop](https://github.com/SimaKogan/aurora-shop) · [Live demo](https://simakogan.github.io/aurora-shop/)
 
 <a href="https://github.com/SimaKogan/aurora-shop"><img src="assets/projects/aurora-shop.png" alt="Aurora Shop" width="600"></a>
