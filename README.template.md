@@ -62,6 +62,13 @@ Documents (PDF, DOCX, Markdown) are chunked, embedded with Vertex AI and searche
 Catalog with threaded discussions, hybrid semantic search and a handwriting studio that reads and writes in your own hand. **Java 17 · Spring Boot 3 · JWT · PostgreSQL + pgvector · React · TypeScript · FastAPI · OpenCV · Docker**
 Search merges full-text, trigram and vector retrieval with rank fusion, repairs text typed on the wrong keyboard layout (`ghbdtn` → `привет`, `akuo` → `שלום`) and can answer from the hits with numbered citations. The handwriting studio reads photos of handwriting and writes new text in your own letters: you print a sheet, photograph it, and the service corrects the perspective and cuts out your characters (Cyrillic, Latin and Hebrew, laid out right-to-left). Interface in English, Russian and Hebrew with full right-to-left layout, light and dark themes, and a CI pipeline that builds and tests every push.
 
+### 🎨 [Art Studio Booking](https://github.com/SimaKogan/art-studio-booking)
+
+<a href="https://github.com/SimaKogan/art-studio-booking"><img src="assets/projects/art-studio-booking.png" alt="Art Studio Booking" width="600"></a>
+
+Booking platform for an art studio with a GenAI schedule assistant. **Java 17 · Spring Boot 3 · JWT · PostgreSQL · React · TypeScript · Vertex AI Gemini · Docker**
+Visitors browse classes, hold seats for 15 minutes and pay at a stub checkout (Luhn and expiry checks, test cards, a `PaymentGateway` interface for a real provider). Capacity is enforced under a database row lock, so the last seat can never be sold twice. An admin panel shows revenue, seat fill and bookings and manages the schedule. The assistant first retrieves the matching upcoming classes, then Gemini on Vertex AI writes a short answer from only those, and the chat shows them as bookable cards; without a key it falls back to an offline mode. Tests cover the payment stub, retrieval and the whole booking flow over HTTP, and a CI workflow builds both apps on every push.
+
 ### 🛍️ [Aurora Shop](https://github.com/SimaKogan/aurora-shop) · [Live demo](https://simakogan.github.io/aurora-shop/)
 
 <a href="https://github.com/SimaKogan/aurora-shop"><img src="assets/projects/aurora-shop.png" alt="Aurora Shop" width="600"></a>
